@@ -1,0 +1,660 @@
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 39965 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+Backend QtAgg is interactive backend. Turning interactive mode on.
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 38489 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/1 ---
+train_batch (Avg. Loss 0.748, Accuracy 37.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 18.86it/s]
+test_batch (Avg. Loss 0.708, Accuracy 35.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.01it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.744, Accuracy 37.4): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 26.13it/s]
+test accuracy: 37.42874592833876
+test loss 0.7438968629031987
+Backend QtAgg is interactive backend. Turning interactive mode on.
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 34955 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/1 ---
+train_batch (Avg. Loss 0.733, Accuracy 42.0): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 19.29it/s]
+test_batch (Avg. Loss 0.824, Accuracy 34.7): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:02<00:00,  3.71it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.846, Accuracy 34.8): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:03<00:00, 25.38it/s]
+test accuracy: 34.81270358306189
+test loss 0.846034180808377
+Backend QtAgg is interactive backend. Turning interactive mode on.
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 37985 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/1 ---
+train_batch (Avg. Loss 0.702, Accuracy 64.3): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 18.03it/s]
+test_batch (Avg. Loss 0.712, Accuracy 60.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:02<00:00,  3.42it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.744, Accuracy 56.2): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 27.66it/s]
+test accuracy: 56.25
+test loss 0.7439151592068858
+Backend QtAgg is interactive backend. Turning interactive mode on.
+[[4388 2230]
+ [2068 1138]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 43365 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/1 ---
+train_batch (Avg. Loss 0.713, Accuracy 58.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.42it/s]
+test_batch (Avg. Loss 0.673, Accuracy 65.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.49it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.702, Accuracy 64.2): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 30.18it/s]
+test accuracy: 64.18973941368078
+test loss 0.7018750278980701
+[[6146 3208]
+ [ 310  160]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 35413 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/1 ---
+train_batch (Avg. Loss 0.726, Accuracy 52.0): 100%|████████████████████████████████████████████████████████████| 70/70 [00:05<00:00, 13.21it/s]
+test_batch (Avg. Loss 0.752, Accuracy 34.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.09it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.755, Accuracy 36.3): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 31.41it/s]
+test accuracy: 36.29885993485342
+test loss 0.7552908001007972
+[[ 401  203]
+ [6055 3165]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 33753 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/1 ---
+train_batch (Avg. Loss 0.711, Accuracy 52.3): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.00it/s]
+test_batch (Avg. Loss 0.763, Accuracy 34.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:00<00:00,  9.16it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.765, Accuracy 36.0): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:01<00:00, 44.58it/s]
+test accuracy: 36.04438110749186
+test loss 0.7652943296865984
+[[ 382  209]
+ [6074 3159]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 41939 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/1 ---
+train_batch (Avg. Loss 0.746, Accuracy 47.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.27it/s]
+test_batch (Avg. Loss 0.697, Accuracy 61.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.84it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.734, Accuracy 57.7): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 31.12it/s]
+test accuracy: 57.65472312703583
+test loss 0.7343216739691697
+[[4840 2544]
+ [1616  824]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 45267 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/1 ---
+train_batch (Avg. Loss 0.712, Accuracy 60.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:02<00:00, 23.76it/s]
+test_batch (Avg. Loss 0.691, Accuracy 65.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.84it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.705, Accuracy 64.2): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 32.03it/s]
+test accuracy: 64.21009771986971
+test loss 0.7045131983695092
+[[6141 3201]
+ [ 315  167]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 33247 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/10 ---
+train_batch (Avg. Loss 0.715, Accuracy 50.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 23.33it/s]
+test_batch (Avg. Loss 0.702, Accuracy 67.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.18it/s]
+epoches without improvement: 0
+--- EPOCH 2/10 ---
+train_batch (Avg. Loss 0.704, Accuracy 53.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.84it/s]
+test_batch (Avg. Loss 0.696, Accuracy 67.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.33it/s]
+epoches without improvement: 0
+--- EPOCH 3/10 ---
+train_batch (Avg. Loss 0.706, Accuracy 58.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 19.05it/s]
+test_batch (Avg. Loss 0.698, Accuracy 67.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.77it/s]
+epoches without improvement: 1
+--- EPOCH 4/10 ---
+train_batch (Avg. Loss 0.701, Accuracy 61.0): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.75it/s]
+test_batch (Avg. Loss 0.701, Accuracy 67.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.41it/s]
+epoches without improvement: 2
+--- EPOCH 5/10 ---
+train_batch (Avg. Loss 0.700, Accuracy 61.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:02<00:00, 23.51it/s]
+test_batch (Avg. Loss 0.700, Accuracy 67.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.68it/s]
+epoches without improvement: 0
+--- EPOCH 6/10 ---
+train_batch (Avg. Loss 0.696, Accuracy 61.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.24it/s]
+test_batch (Avg. Loss 0.696, Accuracy 67.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.92it/s]
+epoches without improvement: 0
+--- EPOCH 7/10 ---
+train_batch (Avg. Loss 0.694, Accuracy 62.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:02<00:00, 23.83it/s]
+test_batch (Avg. Loss 0.687, Accuracy 67.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.49it/s]
+epoches without improvement: 0
+--- EPOCH 8/10 ---
+train_batch (Avg. Loss 0.693, Accuracy 63.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:02<00:00, 23.35it/s]
+test_batch (Avg. Loss 0.687, Accuracy 68.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.03it/s]
+epoches without improvement: 0
+--- EPOCH 9/10 ---
+train_batch (Avg. Loss 0.689, Accuracy 64.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 23.04it/s]
+test_batch (Avg. Loss 0.693, Accuracy 67.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.12it/s]
+epoches without improvement: 1
+--- EPOCH 10/10 ---
+train_batch (Avg. Loss 0.685, Accuracy 64.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:02<00:00, 23.40it/s]
+test_batch (Avg. Loss 0.688, Accuracy 67.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:03<00:00,  2.53it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.718, Accuracy 64.1): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 33.39it/s]
+test accuracy: 64.06758957654723
+test loss 0.7179341060774667
+[[6118 3192]
+ [ 338  176]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 41101 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/10 ---
+train_batch (Avg. Loss 0.739, Accuracy 54.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.38it/s]
+test_batch (Avg. Loss 0.796, Accuracy 37.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.64it/s]
+epoches without improvement: 0
+--- EPOCH 2/10 ---
+train_batch (Avg. Loss 0.726, Accuracy 54.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.79it/s]
+test_batch (Avg. Loss 0.693, Accuracy 63.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.98it/s]
+epoches without improvement: 0
+--- EPOCH 3/10 ---
+train_batch (Avg. Loss 0.717, Accuracy 57.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.23it/s]
+test_batch (Avg. Loss 0.997, Accuracy 36.8): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.93it/s]
+epoches without improvement: 1
+--- EPOCH 4/10 ---
+train_batch (Avg. Loss 0.712, Accuracy 57.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.08it/s]
+test_batch (Avg. Loss 0.796, Accuracy 37.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.41it/s]
+epoches without improvement: 0
+--- EPOCH 5/10 ---
+train_batch (Avg. Loss 0.710, Accuracy 56.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.09it/s]
+test_batch (Avg. Loss 0.685, Accuracy 62.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.92it/s]
+epoches without improvement: 0
+--- EPOCH 6/10 ---
+train_batch (Avg. Loss 0.710, Accuracy 56.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:04<00:00, 14.93it/s]
+test_batch (Avg. Loss 0.665, Accuracy 62.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.70it/s]
+epoches without improvement: 0
+--- EPOCH 7/10 ---
+train_batch (Avg. Loss 0.701, Accuracy 58.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.50it/s]
+test_batch (Avg. Loss 0.771, Accuracy 36.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.29it/s]
+epoches without improvement: 1
+--- EPOCH 8/10 ---
+train_batch (Avg. Loss 0.702, Accuracy 59.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.43it/s]
+test_batch (Avg. Loss 0.691, Accuracy 62.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.69it/s]
+epoches without improvement: 0
+--- EPOCH 9/10 ---
+train_batch (Avg. Loss 0.694, Accuracy 60.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.50it/s]
+test_batch (Avg. Loss 0.698, Accuracy 61.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.62it/s]
+epoches without improvement: 1
+--- EPOCH 10/10 ---
+train_batch (Avg. Loss 0.693, Accuracy 60.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.78it/s]
+test_batch (Avg. Loss 0.679, Accuracy 62.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.95it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.705, Accuracy 61.9): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 31.10it/s]
+test accuracy: 61.88925081433225
+test loss 0.7052285725420172
+[[5628 2916]
+ [ 828  452]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 38509 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/10 ---
+train_batch (Avg. Loss 0.716, Accuracy 54.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.39it/s]
+test_batch (Avg. Loss 0.805, Accuracy 33.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:03<00:00,  2.53it/s]
+epoches without improvement: 0
+--- EPOCH 2/10 ---
+train_batch (Avg. Loss 0.702, Accuracy 58.3): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.74it/s]
+test_batch (Avg. Loss 0.643, Accuracy 67.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.41it/s]
+epoches without improvement: 0
+--- EPOCH 3/10 ---
+train_batch (Avg. Loss 0.685, Accuracy 61.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.74it/s]
+test_batch (Avg. Loss 0.661, Accuracy 66.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.77it/s]
+epoches without improvement: 1
+--- EPOCH 4/10 ---
+train_batch (Avg. Loss 0.679, Accuracy 63.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.26it/s]
+test_batch (Avg. Loss 0.976, Accuracy 33.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.79it/s]
+epoches without improvement: 2
+--- EPOCH 5/10 ---
+train_batch (Avg. Loss 0.670, Accuracy 64.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.30it/s]
+test_batch (Avg. Loss 0.738, Accuracy 67.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.62it/s]
+epoches without improvement: 0
+--- EPOCH 6/10 ---
+train_batch (Avg. Loss 0.665, Accuracy 64.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.36it/s]
+test_batch (Avg. Loss 0.752, Accuracy 67.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.77it/s]
+epoches without improvement: 1
+--- EPOCH 7/10 ---
+train_batch (Avg. Loss 0.663, Accuracy 64.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 19.43it/s]
+test_batch (Avg. Loss 0.637, Accuracy 66.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.07it/s]
+epoches without improvement: 0
+--- EPOCH 8/10 ---
+train_batch (Avg. Loss 0.662, Accuracy 64.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.55it/s]
+test_batch (Avg. Loss 1.158, Accuracy 33.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.55it/s]
+epoches without improvement: 1
+--- EPOCH 9/10 ---
+train_batch (Avg. Loss 0.657, Accuracy 65.0): 100%|████████████████████████████████████████████████████████████| 70/70 [00:05<00:00, 13.69it/s]
+test_batch (Avg. Loss 0.788, Accuracy 66.8): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.79it/s]
+epoches without improvement: 0
+--- EPOCH 10/10 ---
+train_batch (Avg. Loss 0.655, Accuracy 65.3): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.45it/s]
+test_batch (Avg. Loss 0.702, Accuracy 38.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.74it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.703, Accuracy 46.2): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 30.88it/s]
+test accuracy: 46.15228013029316
+test loss 0.702611670865641
+[[2148  982]
+ [4308 2386]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 41271 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/10 ---
+train_batch (Avg. Loss 0.756, Accuracy 47.1): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.45it/s]
+test_batch (Avg. Loss 1.457, Accuracy 63.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.61it/s]
+epoches without improvement: 0
+--- EPOCH 2/10 ---
+train_batch (Avg. Loss 0.763, Accuracy 47.3): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.94it/s]
+test_batch (Avg. Loss 2.024, Accuracy 36.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.62it/s]
+epoches without improvement: 1
+--- EPOCH 3/10 ---
+train_batch (Avg. Loss 0.752, Accuracy 47.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.71it/s]
+test_batch (Avg. Loss 1.256, Accuracy 37.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.53it/s]
+epoches without improvement: 0
+--- EPOCH 4/10 ---
+train_batch (Avg. Loss 0.743, Accuracy 49.1): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.61it/s]
+test_batch (Avg. Loss 1.979, Accuracy 37.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.52it/s]
+epoches without improvement: 1
+--- EPOCH 5/10 ---
+train_batch (Avg. Loss 0.746, Accuracy 48.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:05<00:00, 13.58it/s]
+test_batch (Avg. Loss 1.026, Accuracy 36.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.65it/s]
+epoches without improvement: 0
+--- EPOCH 6/10 ---
+train_batch (Avg. Loss 0.752, Accuracy 48.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.01it/s]
+test_batch (Avg. Loss 1.561, Accuracy 37.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.72it/s]
+epoches without improvement: 1
+--- EPOCH 7/10 ---
+train_batch (Avg. Loss 0.740, Accuracy 48.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.42it/s]
+test_batch (Avg. Loss 0.772, Accuracy 55.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.59it/s]
+epoches without improvement: 0
+--- EPOCH 8/10 ---
+train_batch (Avg. Loss 0.739, Accuracy 48.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.73it/s]
+test_batch (Avg. Loss 1.184, Accuracy 37.2): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.80it/s]
+epoches without improvement: 1
+--- EPOCH 9/10 ---
+train_batch (Avg. Loss 0.736, Accuracy 48.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.85it/s]
+test_batch (Avg. Loss 0.723, Accuracy 61.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.22it/s]
+epoches without improvement: 0
+--- EPOCH 10/10 ---
+train_batch (Avg. Loss 0.739, Accuracy 47.9): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.35it/s]
+test_batch (Avg. Loss 0.956, Accuracy 37.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  5.04it/s]
+epoches without improvement: 1
+test_batch (Avg. Loss 0.998, Accuracy 38.1): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 30.98it/s]
+test accuracy: 38.05985342019544
+test loss 0.9976987614260091
+[[ 775  404]
+ [5681 2964]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 35315 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/10 ---
+train_batch (Avg. Loss 0.680, Accuracy 61.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.32it/s]
+test_batch (Avg. Loss 0.890, Accuracy 66.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.23it/s]
+epoches without improvement: 0
+--- EPOCH 2/10 ---
+train_batch (Avg. Loss 0.607, Accuracy 66.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.51it/s]
+test_batch (Avg. Loss 0.583, Accuracy 68.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.73it/s]
+epoches without improvement: 0
+--- EPOCH 3/10 ---
+train_batch (Avg. Loss 0.581, Accuracy 69.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.28it/s]
+test_batch (Avg. Loss 0.691, Accuracy 57.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.52it/s]
+epoches without improvement: 1
+--- EPOCH 4/10 ---
+train_batch (Avg. Loss 0.576, Accuracy 70.0): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.15it/s]
+test_batch (Avg. Loss 0.589, Accuracy 69.8): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.45it/s]
+epoches without improvement: 0
+--- EPOCH 5/10 ---
+train_batch (Avg. Loss 0.572, Accuracy 70.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.22it/s]
+test_batch (Avg. Loss 0.667, Accuracy 54.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.63it/s]
+epoches without improvement: 1
+--- EPOCH 6/10 ---
+train_batch (Avg. Loss 0.563, Accuracy 70.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.61it/s]
+test_batch (Avg. Loss 0.542, Accuracy 70.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.50it/s]
+epoches without improvement: 0
+--- EPOCH 7/10 ---
+train_batch (Avg. Loss 0.562, Accuracy 70.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.69it/s]
+test_batch (Avg. Loss 0.610, Accuracy 69.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.33it/s]
+epoches without improvement: 1
+--- EPOCH 8/10 ---
+train_batch (Avg. Loss 0.553, Accuracy 71.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 19.90it/s]
+test_batch (Avg. Loss 0.553, Accuracy 70.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:03<00:00,  2.21it/s]
+epoches without improvement: 0
+--- EPOCH 9/10 ---
+train_batch (Avg. Loss 0.546, Accuracy 71.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.38it/s]
+test_batch (Avg. Loss 0.585, Accuracy 69.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.79it/s]
+epoches without improvement: 1
+--- EPOCH 10/10 ---
+train_batch (Avg. Loss 0.545, Accuracy 72.1): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 19.99it/s]
+test_batch (Avg. Loss 0.912, Accuracy 35.8): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.14it/s]
+epoches without improvement: 2
+test_batch (Avg. Loss 0.896, Accuracy 37.5): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 30.05it/s]
+test accuracy: 37.479641693811075
+test loss 0.8958629276845362
+[[ 333   19]
+ [6123 3349]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 35451 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/10 ---
+train_batch (Avg. Loss 0.698, Accuracy 61.0): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.19it/s]
+test_batch (Avg. Loss 0.739, Accuracy 34.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.56it/s]
+epoches without improvement: 0
+--- EPOCH 2/10 ---
+train_batch (Avg. Loss 0.650, Accuracy 64.9): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.38it/s]
+test_batch (Avg. Loss 0.638, Accuracy 67.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.74it/s]
+epoches without improvement: 0
+--- EPOCH 3/10 ---
+train_batch (Avg. Loss 0.606, Accuracy 66.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.58it/s]
+test_batch (Avg. Loss 0.983, Accuracy 43.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.46it/s]
+epoches without improvement: 1
+--- EPOCH 4/10 ---
+train_batch (Avg. Loss 0.580, Accuracy 68.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.88it/s]
+test_batch (Avg. Loss 0.641, Accuracy 57.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:03<00:00,  2.12it/s]
+epoches without improvement: 0
+--- EPOCH 5/10 ---
+train_batch (Avg. Loss 0.567, Accuracy 70.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.46it/s]
+test_batch (Avg. Loss 0.612, Accuracy 69.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.47it/s]
+epoches without improvement: 0
+--- EPOCH 6/10 ---
+train_batch (Avg. Loss 0.556, Accuracy 70.9): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.85it/s]
+test_batch (Avg. Loss 0.917, Accuracy 66.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.69it/s]
+epoches without improvement: 1
+--- EPOCH 7/10 ---
+train_batch (Avg. Loss 0.552, Accuracy 71.9): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.67it/s]
+test_batch (Avg. Loss 0.589, Accuracy 67.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.81it/s]
+epoches without improvement: 0
+--- EPOCH 8/10 ---
+train_batch (Avg. Loss 0.544, Accuracy 71.9): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.15it/s]
+test_batch (Avg. Loss 0.623, Accuracy 66.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.35it/s]
+epoches without improvement: 1
+--- EPOCH 9/10 ---
+train_batch (Avg. Loss 0.541, Accuracy 72.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.28it/s]
+test_batch (Avg. Loss 0.653, Accuracy 63.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.60it/s]
+epoches without improvement: 2
+--- EPOCH 10/10 ---
+train_batch (Avg. Loss 0.535, Accuracy 73.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.79it/s]
+test_batch (Avg. Loss 0.623, Accuracy 67.7): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.17it/s]
+epoches without improvement: 0
+test_batch (Avg. Loss 0.686, Accuracy 66.4): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 31.60it/s]
+test accuracy: 66.36807817589576
+test loss 0.6861746466005003
+[[6437 3285]
+ [  19   83]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 34423 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+8618
+--- EPOCH 1/30 ---
+train_batch (Avg. Loss 0.687, Accuracy 64.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.20it/s]
+test_batch (Avg. Loss 0.638, Accuracy 68.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.99it/s]
+epoches without improvement: 0
+--- EPOCH 2/30 ---
+train_batch (Avg. Loss 0.646, Accuracy 65.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.71it/s]
+test_batch (Avg. Loss 1.062, Accuracy 38.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.48it/s]
+epoches without improvement: 1
+--- EPOCH 3/30 ---
+train_batch (Avg. Loss 0.602, Accuracy 67.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.26it/s]
+test_batch (Avg. Loss 0.675, Accuracy 53.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.65it/s]
+epoches without improvement: 0
+--- EPOCH 4/30 ---
+train_batch (Avg. Loss 0.572, Accuracy 69.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.07it/s]
+test_batch (Avg. Loss 0.730, Accuracy 45.7): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.49it/s]
+epoches without improvement: 1
+--- EPOCH 5/30 ---
+train_batch (Avg. Loss 0.566, Accuracy 70.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.51it/s]
+test_batch (Avg. Loss 0.671, Accuracy 69.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.87it/s]
+epoches without improvement: 0
+--- EPOCH 6/30 ---
+train_batch (Avg. Loss 0.562, Accuracy 70.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.90it/s]
+test_batch (Avg. Loss 0.712, Accuracy 48.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.52it/s]
+epoches without improvement: 1
+--- EPOCH 7/30 ---
+train_batch (Avg. Loss 0.555, Accuracy 71.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.65it/s]
+test_batch (Avg. Loss 0.580, Accuracy 68.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.32it/s]
+epoches without improvement: 0
+--- EPOCH 8/30 ---
+train_batch (Avg. Loss 0.550, Accuracy 71.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.22it/s]
+test_batch (Avg. Loss 0.565, Accuracy 71.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.52it/s]
+epoches without improvement: 0
+--- EPOCH 9/30 ---
+train_batch (Avg. Loss 0.549, Accuracy 71.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:05<00:00, 13.92it/s]
+test_batch (Avg. Loss 0.601, Accuracy 65.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.62it/s]
+epoches without improvement: 1
+--- EPOCH 10/30 ---
+train_batch (Avg. Loss 0.544, Accuracy 72.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.21it/s]
+test_batch (Avg. Loss 0.580, Accuracy 67.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.80it/s]
+epoches without improvement: 0
+--- EPOCH 11/30 ---
+train_batch (Avg. Loss 0.539, Accuracy 72.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.52it/s]
+test_batch (Avg. Loss 0.572, Accuracy 71.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.56it/s]
+epoches without improvement: 0
+--- EPOCH 12/30 ---
+train_batch (Avg. Loss 0.531, Accuracy 73.1): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.02it/s]
+test_batch (Avg. Loss 0.604, Accuracy 69.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.14it/s]
+epoches without improvement: 1
+--- EPOCH 13/30 ---
+train_batch (Avg. Loss 0.530, Accuracy 73.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.74it/s]
+test_batch (Avg. Loss 0.667, Accuracy 71.1): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.07it/s]
+epoches without improvement: 2
+--- EPOCH 14/30 ---
+train_batch (Avg. Loss 0.520, Accuracy 74.3): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.58it/s]
+test_batch (Avg. Loss 0.563, Accuracy 72.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.66it/s]
+epoches without improvement: 0
+--- EPOCH 15/30 ---
+train_batch (Avg. Loss 0.513, Accuracy 74.7): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.85it/s]
+test_batch (Avg. Loss 0.554, Accuracy 71.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.81it/s]
+epoches without improvement: 0
+--- EPOCH 16/30 ---
+train_batch (Avg. Loss 0.507, Accuracy 75.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.99it/s]
+test_batch (Avg. Loss 0.911, Accuracy 68.8): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.28it/s]
+epoches without improvement: 1
+--- EPOCH 17/30 ---
+train_batch (Avg. Loss 0.500, Accuracy 76.0): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.58it/s]
+test_batch (Avg. Loss 0.594, Accuracy 71.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:03<00:00,  2.07it/s]
+epoches without improvement: 0
+--- EPOCH 18/30 ---
+train_batch (Avg. Loss 0.493, Accuracy 76.3): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 20.75it/s]
+test_batch (Avg. Loss 0.597, Accuracy 70.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.41it/s]
+epoches without improvement: 1
+--- EPOCH 19/30 ---
+train_batch (Avg. Loss 0.493, Accuracy 75.8): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.06it/s]
+test_batch (Avg. Loss 0.704, Accuracy 57.7): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.46it/s]
+epoches without improvement: 2
+--- EPOCH 20/30 ---
+train_batch (Avg. Loss 0.479, Accuracy 76.6): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.06it/s]
+test_batch (Avg. Loss 0.641, Accuracy 70.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.28it/s]
+epoches without improvement: 0
+--- EPOCH 21/30 ---
+train_batch (Avg. Loss 0.473, Accuracy 77.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.07it/s]
+test_batch (Avg. Loss 0.578, Accuracy 74.3): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.68it/s]
+epoches without improvement: 0
+--- EPOCH 22/30 ---
+train_batch (Avg. Loss 0.468, Accuracy 77.1): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.34it/s]
+test_batch (Avg. Loss 0.768, Accuracy 56.7): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.50it/s]
+epoches without improvement: 1
+--- EPOCH 23/30 ---
+train_batch (Avg. Loss 0.458, Accuracy 78.5): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.64it/s]
+test_batch (Avg. Loss 0.591, Accuracy 71.5): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.64it/s]
+epoches without improvement: 0
+--- EPOCH 24/30 ---
+train_batch (Avg. Loss 0.454, Accuracy 78.1): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.61it/s]
+test_batch (Avg. Loss 0.634, Accuracy 72.8): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.31it/s]
+epoches without improvement: 1
+--- EPOCH 25/30 ---
+train_batch (Avg. Loss 0.446, Accuracy 79.3): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.52it/s]
+test_batch (Avg. Loss 0.585, Accuracy 71.0): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.63it/s]
+epoches without improvement: 0
+--- EPOCH 26/30 ---
+train_batch (Avg. Loss 0.440, Accuracy 79.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:04<00:00, 14.50it/s]
+test_batch (Avg. Loss 1.099, Accuracy 68.8): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:02<00:00,  3.93it/s]
+epoches without improvement: 1
+--- EPOCH 27/30 ---
+train_batch (Avg. Loss 0.427, Accuracy 80.1): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.54it/s]
+test_batch (Avg. Loss 0.612, Accuracy 67.4): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.50it/s]
+epoches without improvement: 0
+--- EPOCH 28/30 ---
+train_batch (Avg. Loss 0.421, Accuracy 80.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.69it/s]
+test_batch (Avg. Loss 0.562, Accuracy 73.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.48it/s]
+epoches without improvement: 0
+--- EPOCH 29/30 ---
+train_batch (Avg. Loss 0.416, Accuracy 80.4): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 22.07it/s]
+test_batch (Avg. Loss 0.580, Accuracy 68.6): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.27it/s]
+epoches without improvement: 1
+--- EPOCH 30/30 ---
+train_batch (Avg. Loss 0.408, Accuracy 81.2): 100%|████████████████████████████████████████████████████████████| 70/70 [00:03<00:00, 21.23it/s]
+test_batch (Avg. Loss 0.585, Accuracy 70.9): 100%|███████████████████████████████████████████████████████████████| 8/8 [00:01<00:00,  4.37it/s]
+epoches without improvement: 2
+test_batch (Avg. Loss 0.574, Accuracy 71.8): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 29.40it/s]
+test accuracy: 71.7630293159609
+test loss 0.5744386524349064
+[[5381 1699]
+ [1075 1669]]
+[ronen@iroh final-proj-upgraded]$  cd /home/ronen/Documents/college/NLP/final-proj-upgraded ; /usr/bin/env /bin/python /home/ronen/.vscode/exte
+nsions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 41513 -- /home/ronen/Documents/college/NLP/final-proj-upgraded/main.py
+ 
+28436
+--- EPOCH 1/30 ---
+train_batch (Avg. Loss 0.536, Accuracy 73.1): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.70it/s]
+test_batch (Avg. Loss 0.521, Accuracy 74.8): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 85.52it/s]
+epoches without improvement: 0
+--- EPOCH 2/30 ---
+train_batch (Avg. Loss 0.505, Accuracy 75.2): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 47.02it/s]
+test_batch (Avg. Loss 0.509, Accuracy 74.7): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 87.95it/s]
+epoches without improvement: 0
+--- EPOCH 3/30 ---
+train_batch (Avg. Loss 0.497, Accuracy 75.8): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:25<00:00, 46.08it/s]
+test_batch (Avg. Loss 0.519, Accuracy 74.0): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.73it/s]
+epoches without improvement: 1
+--- EPOCH 4/30 ---
+train_batch (Avg. Loss 0.494, Accuracy 75.9): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.57it/s]
+test_batch (Avg. Loss 0.521, Accuracy 74.0): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 85.43it/s]
+epoches without improvement: 2
+--- EPOCH 5/30 ---
+train_batch (Avg. Loss 0.491, Accuracy 76.1): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 46.93it/s]
+test_batch (Avg. Loss 0.501, Accuracy 75.2): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 90.41it/s]
+epoches without improvement: 0
+--- EPOCH 6/30 ---
+train_batch (Avg. Loss 0.490, Accuracy 76.1): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.45it/s]
+test_batch (Avg. Loss 0.503, Accuracy 74.9): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 88.77it/s]
+epoches without improvement: 1
+--- EPOCH 7/30 ---
+train_batch (Avg. Loss 0.489, Accuracy 76.2): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 47.04it/s]
+test_batch (Avg. Loss 0.487, Accuracy 76.3): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.22it/s]
+epoches without improvement: 0
+--- EPOCH 8/30 ---
+train_batch (Avg. Loss 0.488, Accuracy 76.3): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 47.28it/s]
+test_batch (Avg. Loss 0.492, Accuracy 75.9): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 85.92it/s]
+epoches without improvement: 1
+--- EPOCH 9/30 ---
+train_batch (Avg. Loss 0.487, Accuracy 76.3): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.35it/s]
+test_batch (Avg. Loss 0.488, Accuracy 76.3): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 88.47it/s]
+epoches without improvement: 0
+--- EPOCH 10/30 ---
+train_batch (Avg. Loss 0.487, Accuracy 76.3): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:25<00:00, 45.98it/s]
+test_batch (Avg. Loss 0.493, Accuracy 76.1): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 86.58it/s]
+epoches without improvement: 1
+--- EPOCH 11/30 ---
+train_batch (Avg. Loss 0.486, Accuracy 76.4): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 46.97it/s]
+test_batch (Avg. Loss 0.499, Accuracy 75.3): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.34it/s]
+epoches without improvement: 2
+--- EPOCH 12/30 ---
+train_batch (Avg. Loss 0.486, Accuracy 76.4): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 47.12it/s]
+test_batch (Avg. Loss 0.484, Accuracy 76.6): 100%|███████████████████████████████████████████████████████████| 437/437 [00:06<00:00, 64.81it/s]
+epoches without improvement: 0
+--- EPOCH 13/30 ---
+train_batch (Avg. Loss 0.485, Accuracy 76.4): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 46.92it/s]
+test_batch (Avg. Loss 0.498, Accuracy 75.7): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.26it/s]
+epoches without improvement: 1
+--- EPOCH 14/30 ---
+train_batch (Avg. Loss 0.485, Accuracy 76.4): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 46.92it/s]
+test_batch (Avg. Loss 0.487, Accuracy 76.3): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.11it/s]
+epoches without improvement: 0
+--- EPOCH 15/30 ---
+train_batch (Avg. Loss 0.485, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 46.86it/s]
+test_batch (Avg. Loss 0.486, Accuracy 76.3): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 82.21it/s]
+epoches without improvement: 0
+--- EPOCH 16/30 ---
+train_batch (Avg. Loss 0.484, Accuracy 76.4): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.32it/s]
+test_batch (Avg. Loss 0.511, Accuracy 74.5): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.05it/s]
+epoches without improvement: 1
+--- EPOCH 17/30 ---
+train_batch (Avg. Loss 0.484, Accuracy 76.4): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 47.06it/s]
+test_batch (Avg. Loss 0.514, Accuracy 74.8): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.59it/s]
+epoches without improvement: 2
+--- EPOCH 18/30 ---
+train_batch (Avg. Loss 0.484, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 46.99it/s]
+test_batch (Avg. Loss 0.488, Accuracy 76.2): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 87.99it/s]
+epoches without improvement: 0
+--- EPOCH 19/30 ---
+train_batch (Avg. Loss 0.484, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 47.07it/s]
+test_batch (Avg. Loss 0.492, Accuracy 75.9): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 86.16it/s]
+epoches without improvement: 1
+--- EPOCH 20/30 ---
+train_batch (Avg. Loss 0.484, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.71it/s]
+test_batch (Avg. Loss 0.485, Accuracy 76.4): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 85.42it/s]
+epoches without improvement: 0
+--- EPOCH 21/30 ---
+train_batch (Avg. Loss 0.484, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.66it/s]
+test_batch (Avg. Loss 0.488, Accuracy 76.2): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.32it/s]
+epoches without improvement: 1
+--- EPOCH 22/30 ---
+train_batch (Avg. Loss 0.483, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.42it/s]
+test_batch (Avg. Loss 0.551, Accuracy 71.3): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 89.64it/s]
+epoches without improvement: 2
+--- EPOCH 23/30 ---
+train_batch (Avg. Loss 0.483, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 46.83it/s]
+test_batch (Avg. Loss 0.540, Accuracy 72.7): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 87.37it/s]
+epoches without improvement: 0
+--- EPOCH 24/30 ---
+train_batch (Avg. Loss 0.483, Accuracy 76.6): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:23<00:00, 46.89it/s]
+test_batch (Avg. Loss 0.484, Accuracy 76.4): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 84.45it/s]
+epoches without improvement: 0
+--- EPOCH 25/30 ---
+train_batch (Avg. Loss 0.483, Accuracy 76.6): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.81it/s]
+test_batch (Avg. Loss 0.485, Accuracy 76.4): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 81.40it/s]
+epoches without improvement: 1
+--- EPOCH 26/30 ---
+train_batch (Avg. Loss 0.483, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.78it/s]
+test_batch (Avg. Loss 0.509, Accuracy 75.2): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 88.91it/s]
+epoches without improvement: 2
+--- EPOCH 27/30 ---
+train_batch (Avg. Loss 0.483, Accuracy 76.5): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.55it/s]
+test_batch (Avg. Loss 0.492, Accuracy 75.9): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 87.43it/s]
+epoches without improvement: 0
+--- EPOCH 28/30 ---
+train_batch (Avg. Loss 0.482, Accuracy 76.6): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.46it/s]
+test_batch (Avg. Loss 0.494, Accuracy 75.7): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 87.69it/s]
+epoches without improvement: 1
+--- EPOCH 29/30 ---
+train_batch (Avg. Loss 0.482, Accuracy 76.6): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.73it/s]
+test_batch (Avg. Loss 0.497, Accuracy 75.5): 100%|███████████████████████████████████████████████████████████| 437/437 [00:04<00:00, 88.74it/s]
+epoches without improvement: 2
+--- EPOCH 30/30 ---
+train_batch (Avg. Loss 0.482, Accuracy 76.6): 100%|████████████████████████████████████████████████████████| 3932/3932 [01:24<00:00, 46.72it/s]
+test_batch (Avg. Loss 0.501, Accuracy 75.4): 100%|███████████████████████████████████████████████████████████| 437/437 [00:05<00:00, 86.94it/s]
+epoches without improvement: 3
+test_batch (Avg. Loss 0.497, Accuracy 75.7): 100%|█████████████████████████████████████████████████████████████| 77/77 [00:02<00:00, 29.58it/s]
+test accuracy: 75.70236156351791
+test loss 0.4970128961971828
+[[5582 1513]
+ [ 874 1855]]
+[ronen@iroh final-proj-upgraded]$   
